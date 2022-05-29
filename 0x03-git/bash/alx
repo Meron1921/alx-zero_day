@@ -1,1 +1,2 @@
-echo "Alx School is so cool!"
+#!binbash
+echo "ALX School"
